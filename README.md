@@ -10,7 +10,7 @@ I currently hold the title Expert. My max. rating is 1689, and I regularly compe
 
 Here are the contests you can find in this repository:
 - Round #690 (Div. 3) - 69th place, solved all the tasks
-- Round #699 (Div. 2) - 475th place, solved tasks A-D
+- Round #699 (Div. 2) - 471st place, solved tasks A-D
 
 ## Setup
 
