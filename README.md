@@ -8,8 +8,10 @@ I currently hold the title Expert. My max. rating is 1689, and I regularly compe
 
 ## Contests
 
-Currently there is only one uploaded contest, round 1462 (Codeforces round #690 Div. 3), where I took the 69th place and got promoted from Specialist to Expert title.
-I hope there will be many more succesful contests in both Div. 2 and, later, Div. 1.
+Here are the contests you can find in this repository:
+- Round #690 (Div. 3) - 69th place, solved all the tasks
+- Round #697 (Div. 3) - 284th place, solved tasks A-E, the round was unfortunately declared unrated
+- Round #699 (Div. 2) - 471st place, solved tasks A-D
 
 ## Setup
 
